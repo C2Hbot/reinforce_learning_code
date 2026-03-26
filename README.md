@@ -16,3 +16,6 @@ PS:以后的代码形式将会以.ipynb的格式，保持与原书形式相同
 ```python 
 pip install "gymnasium[toy-text]"
 ```
+
+### 2026.3.26 上传第五章时序差分算法（Sarsa算法和Q-Learning算法）代码
+- 原代码使用的tqdm应该改为tqdm.tqdm
